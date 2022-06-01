@@ -15,7 +15,7 @@ Once the calculations are done by the microcontroller according to the logic, th
 
 ## Main Components
 - ATmega16 
-- 4*16 LCD
+- 2*16 LCD
 - LM35
 - DC Motor
 - L293D
