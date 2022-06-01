@@ -10,7 +10,7 @@ Once the calculations are done by the microcontroller according to the logic, th
 ## The project is designed and implemented based on the layered architecture model 
 ![image from program](https://github.com/Tarek-Elmenshawy/Fan_Controller_System/blob/main/screenshots/layered.png?raw=true)
 
-## proteus simulation
+## Proteus Simulation
 ![image from program](https://github.com/Tarek-Elmenshawy/Fan_Controller_System/blob/main/screenshots/working.jpg?raw=true)
 
 ## Main Components
