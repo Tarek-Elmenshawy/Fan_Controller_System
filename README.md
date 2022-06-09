@@ -1,4 +1,4 @@
-# Fan Controller System
+# Fan Speed Controller with Temperature
 A fan controller yystem is using ATmega16 microcontroller, in which the fan is automatically turned ON or OFF according to the temperature.
 
 In this project, the LM35 temperature sensor will give continuous analog output corresponding to the temperature sensed by it. This analog signal is given to the ADC, which converts the analog values to digital values.
